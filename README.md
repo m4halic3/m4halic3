@@ -36,7 +36,7 @@
        margin-bottom: 2rem; 
        color: #ccc;
      ">
-    Scrum Master | Project Manager | Junior Web Developer
+    Junior Web Developer
   </p>
 
   <div style="text-align:center; margin-bottom: 2rem;">
