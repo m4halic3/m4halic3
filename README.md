@@ -4,11 +4,11 @@
 
 <div align="center">
 
-  <h1>マリアナ アリス | Mariana Alice</h1>
+  <h1>Mariana Alice</h1>
   
   <p><b>Systems Engineering | HPC & AI Infrastructure Researcher</b></p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=b30000&width=700&size=24&center=true&lines=HPC+Cluster+Management;GNU/Linux+Specialist;AI+Research+%40+CNPq;Full-stack+Systems+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=#ff0040&width=700&size=24&center=true&lines=HPC+Cluster+Management;GNU/Linux+Specialist;AI+Research+%40+CNPq;Full-stack+Systems+Development" alt="Typing SVG" />
 
   <br/>
 
