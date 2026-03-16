@@ -14,10 +14,6 @@
        box-shadow: 0 0 25px #800000aa;
      ">
 
-  <div style="font-size: 1.8rem; color: #b30000; letter-spacing: 0.12em; margin-bottom: 0.3rem;">
-    マリアナ アリス
-  </div>
-
   <h1 style="
        font-size: 2.8rem; 
        margin: 0; 
@@ -46,33 +42,26 @@
          style="display: inline-block; margin: 0 auto; filter: hue-rotate(280deg) brightness(0.8);" />
   </div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=b30000&width=700&size=24&center=true&lines=HPC+Cluster+Management;GNU/Linux+Specialist;AI+Research+%40+CNPq;High-Performance+Computing" alt="Typing SVG" style="margin-bottom: 2rem;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=b30000&width=700&size=24&center=true&lines=HPC+Cluster+Management;GNU/Linux+Specialist;AI+Research+%40+CNPq;Full-stack+Systems+Development" alt="Typing SVG" style="margin-bottom: 2rem;"/>
 
-  <h3 style="
-      color: #b30000; 
-      font-weight: 900; 
-      text-transform: uppercase; 
-      margin-bottom: 0.8rem;
-      letter-spacing: 0.1em;
-      text-shadow: 0 0 5px #ff0000cc;
-  ">
-    System & AI Stack
+  <h3 style="color: #b30000; font-weight: 900; text-transform: uppercase; margin-bottom: 0.8rem; letter-spacing: 0.1em; text-shadow: 0 0 5px #ff0000cc;">
+    Core & Infrastructure
   </h3>
-  <div style="
-      margin-top: 10px; 
-      margin-bottom: 2rem;
-      padding: 20px 25px;
-      border-radius: 12px;
-      border: 2px solid #330000;
-      box-shadow: 0 0 20px #80000055;
-      display: inline-block;
-      max-width: 440px;
-  ">
+  <div style="margin-top: 10px; margin-bottom: 2rem; padding: 20px 25px; border-radius: 12px; border: 2px solid #330000; box-shadow: 0 0 20px #80000055; display: inline-block;">
+    <div style="display: flex; justify-content: space-between; gap: 10px;">
+      <img src="https://skillicons.dev/icons?i=cpp,java,py,linux,docker,mysql&theme=dark" alt="Core Technologies"/>
+    </div>
+  </div>
+
+  <h3 style="color: #b30000; font-weight: 900; text-transform: uppercase; margin-bottom: 0.8rem; letter-spacing: 0.1em; text-shadow: 0 0 5px #ff0000cc;">
+    Web Ecosystem & Tooling
+  </h3>
+  <div style="margin-top: 10px; margin-bottom: 2rem; padding: 20px 25px; border-radius: 12px; border: 2px solid #330000; box-shadow: 0 0 20px #80000055; display: inline-block;">
     <div style="display: flex; justify-content: space-between; margin-bottom: 12px; gap: 10px;">
-      <img src="https://skillicons.dev/icons?i=linux,docker,py,c&theme=dark" alt="Core Icons"/>
+      <img src="https://skillicons.dev/icons?i=js,vue,react,nodejs&theme=dark" alt="Web Technologies"/>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 10px;">
-      <img src="https://skillicons.dev/icons?i=bash,mysql,latex,githubactions&theme=dark" alt="Tools Icons"/>
+      <img src="https://skillicons.dev/icons?i=html,css,bash,latex&theme=dark" alt="Tools"/>
     </div>
   </div>
 
@@ -86,14 +75,7 @@
     max-width: 500px;
   " />
 
-  <h3 style="
-      color: #b30000; 
-      font-weight: 900; 
-      text-transform: uppercase; 
-      margin-bottom: 1rem;
-      letter-spacing: 0.1em;
-      text-shadow: 0 0 5px #ff0000cc;
-  ">
+  <h3 style="color: #b30000; font-weight: 900; text-transform: uppercase; margin-bottom: 1rem; letter-spacing: 0.1em; text-shadow: 0 0 5px #ff0000cc;">
     GitHub Stats
   </h3>
 
@@ -106,14 +88,7 @@
          alt="Top languages"/>
   </div>
 
-  <h3 style="
-      color: #b30000; 
-      font-weight: 900; 
-      text-transform: uppercase; 
-      margin-bottom: 0.8rem;
-      letter-spacing: 0.1em;
-      text-shadow: 0 0 5px #ff0000cc;
-  ">
+  <h3 style="color: #b30000; font-weight: 900; text-transform: uppercase; margin-bottom: 0.8rem; letter-spacing: 0.1em; text-shadow: 0 0 5px #ff0000cc;">
     Contact
   </h3>
   <div style="margin-bottom: 2rem; display: flex; gap: 10px; justify-content: center; align-items: center;">
