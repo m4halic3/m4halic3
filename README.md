@@ -5,7 +5,8 @@
 <div align="center">
   <h1>Mariana Alice</h1>
   
-  <p><b>Pesquisadora de Iniciação Tecnológica (CNPq) | Graduanda em Sistemas para Internet</b></p>
+  <p><b>Pesquisadora de Iniciação Tecnológica (CNPq)</b></p>
+  <p>Graduanda em Sistemas para Internet | Técnica em Informática para Internet</p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=ff0040&width=700&size=24&center=true&lines=HPC+Cluster+Management;SaaS+Infrastructure+%26+Documentation;GNU/Linux+Systems;Future+Research:+AI+%26+Machine+Learning" alt="Typing SVG" />
 
