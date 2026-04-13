@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,docker,py,mysql,latex&theme=dark" />
 
   <h3 style="color: #ea2b1f;">━━━ Web Ecosystem ━━━</h3>
-  <img src="https://skillicons.dev/icons?i=js,vue,react,nodejs,html,css,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,vue,react,nodejs,html,css,sass,java&theme=dark" />
 
 <h3 style="color: #ea2b1f;">━━━ GitHub Stats ━━━</h3>
   <p align="center">
