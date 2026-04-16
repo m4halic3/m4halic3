@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>Mariana Alice</h1>
+  <h1><font color="#b11226">Mariana Alice</font></h1>
   
   <p><b>Pesquisadora de Iniciação Tecnológica (CNPq)</b></p>
   <p>Graduanda em Sistemas para Internet | Técnica em Informática para Internet</p>
@@ -28,19 +28,16 @@
     <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m4halic3&layout=compact&theme=tokyonight&title_color=ea2b1f&text_color=eee&bg_color=0a0a0a" />
   </p>
   
-  <h3 style="color: #ea2b1f;">━━━ Contact ━━━</h3>
+<h3 style="color: #ea2b1f;">━━━ Contact ━━━</h3>
   <p align="center">
-    <a href="https://www.linkedin.com/in/mariana-alice-446994269/">
+    <a href="https://lattes.cnpq.br/0744407330648860" target="_blank">
+      <img src="https://img.shields.io/badge/Lattes-780000?style=for-the-badge&logo=googlescholar&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/mariana-alice-446994269/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:mariana.alice668@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-780000?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/m4halic3">
-      <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/imariana_pires">
-      <img src="https://img.shields.io/badge/Instagram-780000?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </p>
 </div>
