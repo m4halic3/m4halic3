@@ -4,10 +4,9 @@
 <div align="center">
   <h1><code style="color: #ffffff;">> Mariana Alice _</code></h1>
   
-  <p><b>Pesquisadora de Iniciação Tecnológica (CNPq)</b></p>
-  <p>Graduanda em Sistemas para Internet | Técnica em Informática para Internet</p>
+<p><b style="color: #E63946;">Pesquisadora de Iniciação Tecnológica (CNPq)</b></p>
+<p>Graduanda em Sistemas para Internet | Técnica em Informática para Internet</p>
 
-  <br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=E63946&width=700&size=22&center=true&vCenter=true&lines=Hello+World!+I'm+Mariana;HPC+%26+Cloud-Native+SaaS;Linux+Kernel+%26+Systems+Programming;Optimization+%26+Systems+Engineering" alt="Typing SVG" />
 
