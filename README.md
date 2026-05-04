@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=800000&v=3"/>
 </p>
 <div align="center">
-  <h2><code style="color: #ffffff;">> Mariana Alice _</code></h2>
+  <h1><code style="color: #ffffff;">> Mariana Alice _</code></h1>
   
   <p><b>Pesquisadora de Iniciação Tecnológica (CNPq)</b></p>
   <p>Graduanda em Sistemas para Internet | Técnica em Informática para Internet</p>
