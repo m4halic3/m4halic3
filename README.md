@@ -29,8 +29,10 @@
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=m4halic3&theme=dark&hide_border=true&stroke=000000&background=0d1117&ring=E63946&fire=E63946&currStreakLabel=E63946&currStreakNum=FFFFFF&sideLabels=F8F9FA&sideNums=FFFFFF&dates=E63946" alt="GitHub Streak" />
   </p>
-
+  
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4halic3/m4halic3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4halic3/m4halic3/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m4halic3/m4halic3/output/pacman-contribution-graph.svg">
 </picture>
 
