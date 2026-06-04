@@ -25,10 +25,6 @@
     <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m4halic3&show_icons=true&title_color=E63946&icon_color=E63946&text_color=F8F9FA&bg_color=0d1117&hide_border=true" />
     <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m4halic3&layout=compact&title_color=E63946&text_color=F8F9FA&bg_color=0d1117&hide_border=true" />
   </p>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=m4halic3&theme=dark&hide_border=true&stroke=000000&background=0d1117&ring=E63946&fire=E63946&currStreakLabel=E63946&currStreakNum=FFFFFF&sideLabels=F8F9FA&sideNums=FFFFFF&dates=E63946" alt="GitHub Streak" />
-  </p>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4halic3/m4halic3/output/github-contribution-grid-snake-dark.svg?v=2">
