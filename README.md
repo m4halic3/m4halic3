@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=800000&v=3"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2D6A4F&v=3"/>
 </p>
 
 <div align="center">
 <h2><code>&gt; Mariana Alice _</code></h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=E63946&width=650&size=20&center=true&vCenter=true&lines=Graduanda+em+Sistemas+para+Internet;Bolsista+FAPESP+%7C+IC+em+Aprendizado+de+M%C3%A1quina;HPC+Clusters+%26+Simula%C3%A7%C3%A3o+Distribu%C3%ADda;MPI+%2F+Simula%C3%A7%C3%A3o+Distribu%C3%ADda;Debian+Servers+%26+Infra" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=52B788&width=650&size=20&center=true&vCenter=true&lines=Undergraduate+in+Internet+Systems+Technology;FAPESP+Scholar+%7C+Machine+Learning+Research;HPC+Clusters+%26+Distributed+Simulation;MPI+%26+High-Performance+Computing;Debian+Servers+%26+Cloud+Infra" alt="Typing SVG"/>
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=800000&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=2D6A4F&height=3&section=header"/>
 
 <div align="center">
 
@@ -45,9 +45,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=800000&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=2D6A4F&height=3&section=header"/>
 
-### `//` linguagens mais usadas
+### `//` Most Used Languages
 
 <p align="center">
   <img width="55%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m4halic3&layout=compact&hide_title=true&langs_count=8&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&hide_border=true"/>
@@ -59,20 +59,20 @@
   <img alt="github contribution grid snake" width="100%" src="https://raw.githubusercontent.com/m4halic3/m4halic3/output/github-contribution-grid-snake.svg?v=2">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=800000&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=2D6A4F&height=3&section=header"/>
 
 <div align="center">
 
-### `//` contato
+### `//` Contact
 
 <a href="https://lattes.cnpq.br/0744407330648860" target="_blank">
-  <img src="https://img.shields.io/badge/Lattes-800000?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lattes-2D6A4F?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mariana-alice-446994269/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-C1121F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mariana.alice667@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-800000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -80,5 +80,5 @@
 <br/>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F&height=100&section=footer"/>
 </p>
