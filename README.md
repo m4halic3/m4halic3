@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2D6A4F&v=3"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1B4332&v=3"/>
 </p>
 
 <div align="center">
 <h2><code>&gt; Mariana Alice _</code></h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=52B788&width=650&size=20&center=true&vCenter=true&lines=Undergraduate+in+Internet+Systems+Technology;FAPESP+Scholar+%7C+Machine+Learning+Research;HPC+Clusters+%26+Distributed+Simulation;MPI+%26+High-Performance+Computing;Debian+Servers+%26+Cloud+Infra" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=74C69D&width=650&size=20&center=true&vCenter=true&lines=Undergraduate+in+Internet+Systems+Technology;FAPESP+Scholar+%7C+Machine+Learning+Research;HPC+Clusters+%26+Distributed+Simulation;MPI+%26+High-Performance+Computing;Debian+Servers+%26+Cloud+Infra" alt="Typing SVG"/>
 
 <br/>
 
@@ -66,10 +66,10 @@
 ### `//` Contact
 
 <a href="https://lattes.cnpq.br/0744407330648860" target="_blank">
-  <img src="https://img.shields.io/badge/Lattes-2D6A4F?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lattes-1B4332?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mariana-alice-446994269/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-40916C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mariana.alice667@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -80,5 +80,5 @@
 <br/>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40916C&height=100&section=footer"/>
 </p>
