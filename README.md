@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1B4332&v=3"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6B0F1A&v=3"/>
 </p>
 
 <div align="center">
 <h2><code>&gt; Mariana Alice _</code></h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=74C69D&width=650&size=20&center=true&vCenter=true&lines=Undergraduate+in+Internet+Systems+Technology;FAPESP+Scholar+%7C+Machine+Learning+Research;HPC+Clusters+%26+Distributed+Simulation;MPI+%26+High-Performance+Computing;Debian+Servers+%26+Cloud+Infra" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=C1121F&width=650&size=20&center=true&vCenter=true&lines=Undergraduate+in+Internet+Systems+Technology;FAPESP+Scholar+%7C+Machine+Learning+Research;HPC+Clusters+%26+Distributed+Simulation;MPI+%26+High-Performance+Computing;Debian+Servers+%26+Cloud+Infra" alt="Typing SVG"/>
 
 <br/>
 
@@ -13,7 +13,17 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=2D6A4F&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
+
+<div align="center">
+
+### `//` About
+
+Undergraduate researcher focused on **HPC and distributed systems**. Currently building an electromagnetic simulator (FDTD/FEM) on a self-managed MPI cluster as part of a FAPESP-funded scientific initiation project.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
 
 <div align="center">
 
@@ -45,12 +55,10 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=2D6A4F&height=3&section=header"/>
-
-### `//` Most Used Languages
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m4halic3&layout=compact&hide_title=true&langs_count=8&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&hide_border=true"/>
+  <img width="55%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m4halic3&layout=compact&hide_title=true&langs_count=8&title_color=C1121F&text_color=FFFFFF&bg_color=0d1117&hide_border=true"/>
 </p>
 
 <picture>
@@ -59,20 +67,20 @@
   <img alt="github contribution grid snake" width="100%" src="https://raw.githubusercontent.com/m4halic3/m4halic3/output/github-contribution-grid-snake.svg?v=2">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=2D6A4F&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
 
 <div align="center">
 
 ### `//` Contact
 
 <a href="https://lattes.cnpq.br/0744407330648860" target="_blank">
-  <img src="https://img.shields.io/badge/Lattes-1B4332?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lattes-6B0F1A?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mariana-alice-446994269/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-40916C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mariana.alice667@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-A4161A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -80,5 +88,5 @@
 <br/>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40916C&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B0F1A&height=100&section=footer"/>
 </p>
