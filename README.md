@@ -16,11 +16,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
 
 <div align="center">
-
-### `//` About
-
-Undergraduate researcher focused on **HPC and distributed systems**. Currently building an electromagnetic simulator (FDTD/FEM) on a self-managed MPI cluster as part of a FAPESP-funded scientific initiation project.
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
