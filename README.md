@@ -12,9 +12,6 @@
 <img src="GitHub-logo.gif" height="140px"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
-
 <div align="center">
 </div>
 
