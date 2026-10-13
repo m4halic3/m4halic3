@@ -12,8 +12,6 @@
 <img src="claude-sprite.gif" height="140px"/>
 
 </div>
-<div align="center">
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
 
@@ -49,8 +47,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
 
+<div align="center">
+
+### `//` Commits & Contributions
+
+</div>
+
 <p align="center">
-  <img width="55%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m4halic3&layout=compact&hide_title=true&langs_count=8&title_color=C1121F&text_color=FFFFFF&bg_color=0d1117&hide_border=true"/>
+  <img width="49%" src="./profile-summary-card-output/radical/3-stats.svg"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=m4halic3&hide_border=true&background=0d1117&ring=C1121F&fire=C1121F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C1121F&sideLabels=C1121F&dates=8B949E"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/radical/4-productive-time.svg"/>
+  <img width="49%" src="./profile-summary-card-output/radical/2-most-commit-language.svg"/>
+</p>
+
+<p align="center">
+  <img width="55%" src="./profile-summary-card-output/radical/1-repos-per-language.svg"/>
 </p>
 
 <picture>
