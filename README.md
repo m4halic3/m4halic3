@@ -63,10 +63,6 @@
   <img width="49%" src="./profile-summary-card-output/radical/2-most-commit-language.svg"/>
 </p>
 
-<p align="center">
-  <img width="55%" src="./profile-summary-card-output/radical/1-repos-per-language.svg"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4halic3/m4halic3/output/github-contribution-grid-snake-dark.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4halic3/m4halic3/output/github-contribution-grid-snake.svg?v=2">
