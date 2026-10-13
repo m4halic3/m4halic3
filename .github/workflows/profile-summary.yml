@@ -1,10 +1,10 @@
-name: Profile Summary Cards
+name: Profile Cards
 
 on:
   push:
     branches: [main, master]
     paths-ignore:
-      - "profile-summary-card-output/**"
+      - "profile-cards/**"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
@@ -20,22 +20,17 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: -3
-
-      - name: Recolor cards
-        run: python3 .github/scripts/recolor.py
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate_cards.py
 
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output
+          git add profile-cards
           git diff --staged --quiet && exit 0
-          git commit -m "chore: update profile summary cards"
+          git commit -m "chore: update profile cards"
           git pull --rebase origin ${{ github.ref_name }}
           git push

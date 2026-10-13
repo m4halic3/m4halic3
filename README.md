@@ -54,15 +54,14 @@
 </div>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/radical/3-stats.svg"/>
+  <img width="49%" src="./profile-cards/stats.svg?v=4"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=m4halic3&hide_border=true&background=0d1117&ring=C1121F&fire=C1121F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C1121F&sideLabels=C1121F&dates=8B949E"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/radical/4-productive-time.svg"/>
-  <img width="49%" src="./profile-summary-card-output/radical/2-most-commit-language.svg"/>
+  <img width="49%" src="./profile-cards/commit-hours.svg?v=4"/>
+  <img width="49%" src="./profile-cards/top-langs.svg?v=4"/>
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4halic3/m4halic3/output/github-contribution-grid-snake-dark.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4halic3/m4halic3/output/github-contribution-grid-snake.svg?v=2">
