@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="GitHub-logo.gif" height="140px"/>
+<img src="claude-sprite.gif" height="140px"/>
 
 </div>
 <div align="center">
