@@ -27,10 +27,15 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: -3
 
+      - name: Recolor cards
+        run: python3 .github/scripts/recolor.py
+
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile-summary-card-output
-          git diff --staged --quiet || git commit -m "chore: update profile summary cards"
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: update profile summary cards"
+          git pull --rebase origin ${{ github.ref_name }}
           git push
